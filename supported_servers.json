@@ -7,5 +7,14 @@
     "nameAddress": "015DB2B8",
     "hpAddressPointer": 22906472,
     "nameAddressPointer": 22917816
+  },
+  {
+    "index": 0,
+    "name": "PlayRoR",
+    "description": null,
+    "hpAddress": "015D8668",
+    "nameAddress": "015DB2B8",
+    "hpAddressPointer": 22906472,
+    "nameAddressPointer": 22917816
   }
 ]
