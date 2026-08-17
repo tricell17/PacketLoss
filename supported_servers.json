@@ -16,5 +16,14 @@
     "nameAddress": "015DB2B8",
     "hpAddressPointer": 22906472,
     "nameAddressPointer": 22917816
+  },
+  {
+    "index": 0,
+    "name": "AscendRO",
+    "description": null,
+    "hpAddress": "015FF908",
+    "nameAddress": "01602568",
+    "hpAddressPointer": 23066888,
+    "nameAddressPointer": 23078248
   }
 ]
