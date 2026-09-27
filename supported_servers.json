@@ -34,5 +34,11 @@
     "nameAddress": "01574F00",
     "hpAddressPointer": 22906472,
     "nameAddressPointer": 22499072
+  },
+  {
+    "name": "InitiumRO",
+    "description": "ANY",
+    "hpAddress": "015FF908",
+    "nameAddress": "01602568"
   }
 ]
